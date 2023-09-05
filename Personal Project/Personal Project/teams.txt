@@ -1,0 +1,14 @@
+Wolves,Aston Villa
+Aston Villa,Wolves,Manchester United,Crystal Palace
+Crystal Palace,Aston Villa,Manchester United,Brighton
+Brighton,Crystal Palace,Bournemouth,Manchester United
+Bournemouth,Brighton,Southampton
+Southampton,Tottenham,Brighton,Bournemouth
+Tottenham,Liverpool,Arsenal,Chelsea,Manchester United,West Ham
+West Ham,Tottenham,Liverpool,Chelsea,Manchester United
+Manchester United,Chelsea,Manchester City,Liverpool,Arsenal
+Arsenal,Chelsea,Liverpool,Tottenham,Manchester United
+Chelsea,Manchester United,Manchester City,Arsenal,Tottenham,Liverpool
+Manchester City,Tottenham,Liverpool,Chelsea,Arsenal,Manchester United
+Liverpool,Chelsea,Arsenal,Manchester United,Manchester City,Everton
+Everton,Manchester City,Manchester United,Chelsea,Liverpool
